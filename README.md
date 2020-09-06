@@ -1,6 +1,6 @@
 # nickname32.github.io
 
-## My projects
+## My open-source projects
 
 - [P2P Forwarder](https://github.com/nickname32/p2p-forwarder)
 - [DiscordHook](https://github.com/nickname32/discordhook)
